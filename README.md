@@ -1,6 +1,15 @@
 # nih_project_data
 
+[Link to data](https://exporter.nih.gov/ExPORTER_Catalog.aspx) 
+
+```
+The data files underlying RePORTER include information on projects funded by NIH and other agencies of the U.S. Department of Health and Human Services (ACF, AHRQ, CDC, HRSA, FDA), and the VA. These data are drawn from multiple sources and are provided to the public in the spirit of transparency even though the data, and any analyses derived from them, cannot be considered an official report of the NIH or any of the other federal agencies whose records can be found in RePORTER. 
+```
+
+
 ### Data Dictionary
+
+Details on column values [here](https://exporter.nih.gov/about.aspx)
 
 Data has the following columns:
 ```
